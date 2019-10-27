@@ -1,1 +1,1 @@
-# spring-cloud 服务消费者
+# spring-cloud service admin 消费者
