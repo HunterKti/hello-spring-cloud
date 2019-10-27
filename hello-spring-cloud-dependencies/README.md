@@ -1,1 +1,1 @@
-# spring-cloud 配置
+# spring-cloud 配置中心
